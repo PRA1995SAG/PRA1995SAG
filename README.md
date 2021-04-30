@@ -4,8 +4,7 @@
 - 📖 I've successfully completed **React Native** program on udemy.
 - 🏆 [Udemy Certificate](https://www.udemy.com/certificate/UC-58866c46-09e6-470f-9120-a72884cb464c/)
 
-
-- 🧰 currently building **instagram** clone using react native.
+- 🧰 currently building demo app using expo SDK 41 (once build, will share link)
 - 🔗 [Gmail](livethefree@gmail.com)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/prathamesh-sagvekar-339047165/)
 - 🔗 [Twitter](https://twitter.com/PrathameshSagv5)
