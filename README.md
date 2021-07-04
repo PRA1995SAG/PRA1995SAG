@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRA1995SAG
 - 👀 I’m interested in software development and cloud tech.
-- 🌱 I’m currently looking for **React Native** role.
+- 🌱 Currently **React Native** developer.
 - 📖 I've successfully completed **React Native** program on udemy.
 - 🏆 [Udemy Certificate](https://www.udemy.com/certificate/UC-58866c46-09e6-470f-9120-a72884cb464c/)
 
